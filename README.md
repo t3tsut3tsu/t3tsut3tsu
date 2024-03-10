@@ -4,7 +4,7 @@
 ### WHOAMI
 - Specialist degree (Information security of telecommunication systems) - 4/5.5
 - me on Codeby games https://codeby.games/profile
-- me on Rootme https://www.root-me.org/t3tsut3tsu?lang=ru#3dbebca9912ba815fc019f21e05bcaee
+- me on Root-me https://www.root-me.org/t3tsut3tsu?lang=ru#3dbebca9912ba815fc019f21e05bcaee
   
 <!--
 **t3tsut3tsu/t3tsut3tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
