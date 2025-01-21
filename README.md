@@ -1,5 +1,5 @@
 ### Hi there 👋
-<i> Through the thorns to the stars </i>
+
 
 ### WHOAMI
 - Specialist degree (Information security of telecommunication systems) - 4/5.5
