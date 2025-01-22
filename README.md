@@ -5,7 +5,7 @@
 - Specialist degree (Information security of telecommunication systems) - 4/5.5
 - me on <a href="https://codeby.games/profile">Codeby games</a>
 - me on <a href="https://www.root-me.org/t3tsut3tsu?lang=ru#3dbebca9912ba815fc019f21e05bcaee">Root-me</a>
-  
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2617927" style='border:none;'></iframe>
 <!--
 **t3tsut3tsu/t3tsut3tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
