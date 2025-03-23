@@ -3,11 +3,12 @@
 
 ### WHOAMI
 - Specialist degree (Information security of telecommunication systems) - 4/5.5
+- 👾 I’m currently upgrading my Security Skills and Knowledge
 - me on <a href="https://tryhackme.com/r/p/t3tsut3tsu">TryHackMe</a>
 - me on <a href="https://codeby.games/users/t3tsut3tsu">HackerLab</a> (ex Codeby games)
 - me on <a href="https://www.root-me.org/t3tsut3tsu?lang=ru#3dbebca9912ba815fc019f21e05bcaee">Root-me</a>
 
-- 👾 I’m currently upgrading my Security Skills and Knowledge
+
 <!--
 **t3tsut3tsu/t3tsut3tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
