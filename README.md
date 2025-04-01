@@ -2,7 +2,7 @@
 
 
 ### WHOAMI
-🤖 Specialist degree (Information security of telecommunication systems) - 4.5/5.5 <\n>
+🤖 Specialist degree (Information security of telecommunication systems) - 4.5/5.5 <br>
 👾 CyberSecurity Enthusiast
 
 📚 I’m regularly upgrading my Security Skills and Knowledge:
