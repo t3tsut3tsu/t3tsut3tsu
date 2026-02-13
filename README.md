@@ -5,6 +5,8 @@
 🤖 Specialist degree (Information security of telecommunication systems) - 5.5/5.5 <br>
 👾 CyberSecurity Enthusiast
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/t3tsut3tsu.png" alt="Your Image Badge" />
+
 📚 I’m regularly upgrading my Security Skills and Knowledge:
 - me on <a href="https://tryhackme.com/r/p/t3tsut3tsu">TryHackMe</a>
 - me on <a href="https://hackerlab.pro/profile">HackerLab</a> (ex Codeby games)
